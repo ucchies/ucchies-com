@@ -1,5 +1,6 @@
 module.exports = {
   title: 'Hello VuePress',
   description: 'Just playing around',
-  serviceWorker: true
+  serviceWorker: true,
+  ga: 'UA-140337981-1'
 }
