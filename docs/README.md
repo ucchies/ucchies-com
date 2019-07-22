@@ -1,44 +1,23 @@
 ---
-title: Hello
+title: トップページ
 lang: ja-JP
 ---
-# Hello VuePress
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7ebf51a-39b6-4f7b-902f-b22b14b3a6bc/deploy-status)](https://app.netlify.com/sites/freedom-kaiba-io/deploys)
+# プロフィール
 
+## SNS
+[![Twitter](./public/sns/twitter.png)](https://twitter.com/ucchies/)
+[![GitHub](./public/sns/Github.png)](https://github.com/ucchies)
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+## 経歴
 
-:tada: :100:
+| 年月        |               |
+| ---------- | ------------- |
+| 2009年4月   | 都内の理工系大学に入学。半分ニート、半分モラトリアムな学生生活を送る。 |
+| 2013年4月   | 大学卒業後、中堅SIer（社員700人程度）に入社。決済系システムエンジニアとなる。 |
+| 2019年5月   | 平成の終わりとともに同社を退社し、個人でアプリ開発活動をしつつ転職活動中。 |
 
-[[toc]]
+## 作品
+- iOSアプリ「瞬間数読」（2014年3月リリース。AppStoreにより2019年4月公開停止）
+- アロマ検定Web問題集サイト「AromaWeb.jp」（2018年1月リリース。[こちら](https://aromaweb.thebase.in/)にて販売中）
 
-::: tip
-This is a tip
-:::
-
-::: warning
-This is a warning
-:::
-
-::: danger
-This is a dangerous warning
-:::
-
-::: danger STOP
-Danger zone, do not proceed
-:::
-
-``` js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
