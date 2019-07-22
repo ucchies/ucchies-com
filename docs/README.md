@@ -1,13 +1,13 @@
 ---
 title: トップページ
-lang: ja-JP
+lang: ja
 ---
 
 # プロフィール
 
 ## SNS
-[![Twitter](./public/sns/twitter.png)](https://twitter.com/ucchies/)
-[![GitHub](./public/sns/Github.png)](https://github.com/ucchies)
+[![Twitter](~@sns/twitter.png)](https://twitter.com/ucchies/)
+[![GitHub](~@sns/Github.png)](https://github.com/ucchies)
 
 ## 経歴
 

@@ -18,5 +18,12 @@ module.exports = {
                 'ga': 'UA-140337981-1'
             }
         ]
-    ]
+    ],
+    configureWebpack: {
+        resolve: {
+            alias: {
+                '@sns': './public/sns'
+            }
+        }
+    }
 }
