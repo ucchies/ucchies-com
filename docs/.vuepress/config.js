@@ -3,7 +3,7 @@ module.exports = {
     description: 'エンジニアによるブログ。システム開発業務や資格試験、転職活動などについて書きます。',
     serviceWorker: true,
     head: [
-        //['link', { rel: 'icon', type: 'image/png', href: '/favicon.png'}],
+        ['link', { rel: 'icon', type: 'image/png', href: '/favicon.png'}],
         ['meta', { name: 'keywords', content: 'システム開発, SI, SES, IT, IT技術, Web, 転職, 資格, アプリ開発'}],
         ['meta', { name: "og:title", content: this.title}],
         ['meta', { name: "og:description", content: this.description}],
