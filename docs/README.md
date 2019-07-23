@@ -6,9 +6,9 @@ lang: ja
 # プロフィール
 
 ## SNS
-[![Twitter](~@sns/twitter.png)](https://twitter.com/ucchies/)
-[![GitHub](~@sns/Github.png)](https://github.com/ucchies)
-[![Instagram](~@sns/Instagram.png)](https://www.instagram.com/ucchies_com/)
+[![Twitter](/sns/twitter.png)](https://twitter.com/ucchies/)
+[![GitHub](/sns/Github.png)](https://github.com/ucchies)
+[![Instagram](/sns/Instagram.png)](https://www.instagram.com/ucchies_com/)
 
 ## 経歴
 
