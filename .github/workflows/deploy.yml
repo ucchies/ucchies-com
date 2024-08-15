@@ -11,9 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build
-        uses: vuepress/core@v2.0.0-rc.14
-        with:
-          command: vuepress build docs
+        run: yarn docs:build
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
